@@ -1,12 +1,27 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ✍️ Pencraft
 
-Currently, two official plugins are available:
+**Pencraft** is a modern blog writing application built with **React** and powered by **Appwrite**. It supports full **CRUD operations** for blog posts and includes **image upload** functionality, offering a smooth and engaging blogging experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧱 Built with **React**
+- 🔐 Backend powered by **Appwrite**
+- ✏️ Create, Read, Update, Delete (CRUD) blog posts
+- 🖼️ Upload and display images within posts
+- 💻 Responsive and clean user interface
+- ⚡ Real-time updates and smooth user experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React, CSS
+- **Backend:** Appwrite
+- **Storage:** Appwrite (for image uploads)
+
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/pencraft.git
+   cd pencraft
